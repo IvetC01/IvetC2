@@ -1,4 +1,4 @@
-# Alexia Saucedo A01283646
+# Ivet Ceballos González A01066960
 import streamlit as st
 import pandas as pd
 
